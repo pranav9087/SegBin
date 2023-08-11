@@ -60,6 +60,7 @@ Through these well-defined methods of tracking and evaluation, we are poised to 
 We leverage IBM Analytics to process and analyze data from various sources, including the TensorFlow model's predictions and Cloudant-stored metrics. This provides valuable insights presented on the IBM Cloud-hosted dashboard.
 
 - IBM Watson Studio:
+Instructions: The code run on watson studio is present as a python notebook in the Machine-learning model file.
 IBM Watson Studio was utilized to improve and fine-tune the TensorFlow machine learning model. This iterative refinement process will lead to better prediction accuracy and performance.
 
 ### Other IBM technology used
