@@ -72,7 +72,7 @@ The assistant has been deployed on our website: www.terravortex.com in basic Bet
 
 ### Other IBM technology used
 
-All the technologies have been showcased in the our demo video: https://www.youtube.com/watch?v=xi4odXWze9k
+All the technologies have been showcased in our demo video: https://www.youtube.com/watch?v=xi4odXWze9k
 
 - Cloudant:
 Our TensorFlow machine learning model interacts with IBM Cloudant, a NoSQL database service. The model sends data, such as predictions and training metrics, to Cloudant for storage and analysis. This data can be accessed, retrieved, and visualized through the system's dashboard.
