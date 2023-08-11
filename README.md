@@ -66,7 +66,7 @@ INSTRUCTIONS: List any other IBM technology used in your solution and describe h
 
 Diagram and step-by-step description of the flow of our solution:
 
-
+[![Solution Architecture](https://raw.githubusercontent.com/SegBin-ai/IBM-CFC-2023/main/images/Solution%20Architecture.jpeg)
 
 1. The user navigates to the site and uploads a video file.
 2. Watson Speech to Text processes the audio and extracts the text.
