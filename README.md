@@ -156,13 +156,19 @@ _INSTRUCTIONS: The following deliverables are suggested, but **optional**. Addit
 
 INSTRUCTIONS: In this section you add the instructions to run your project on your local machine for development and testing purposes. You can also add instructions on how to deploy the project in production.
 
-### Live demo
+#### How to run ML model?
+Download the Jupyter notebook in the Machine-Learning Model Folder and run all cells for Classfication of waste into the right category.
 
-You can find a running system to test at...
+#### How to run ESP32 coder?
+Download the files in the folder and flash the .ino file onto a ESP32 Tembed Device.
 
-See our [description document](./docs/DESCRIPTION.md) for log in credentials.
+#### How to run the dashboard locally?
 
----
+- step 1: clone the repository onto your local machine using git clone
+- step 2: cd into the frontend folder and run npm install to install all the dependencies
+- step 3: run npm start to start the front end
+- step 4: cd into the back end folder and run nodemon (download if you haven't already) server
+
 
 ### Authors
 
