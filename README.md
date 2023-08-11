@@ -56,14 +56,16 @@ Through these well-defined methods of tracking and evaluation, we are poised to 
 
 ### IBM AI service(s) used
 
-_INSTRUCTIONS: Included here is a list of commonly used IBM AI services. Remove any services you did not use, or add others from the linked catalog not already listed here. Leave only those included in your solution code. Provide details on where and how you used each IBM AI service to help judges review your implementation. Remove these instructions._
-
-- [IBM Natural Language Understanding](https://cloud.ibm.com/catalog/services/natural-language-understanding) - WHERE AND HOW THIS IS USED IN OUR SOLUTION
-- [Watson Assistant](https://cloud.ibm.com/catalog/services/watson-assistant) - WHERE AND HOW THIS IS USED IN OUR SOLUTION
-- [Watson Discovery](https://cloud.ibm.com/catalog/services/watson-discovery) - WHERE AND HOW THIS IS USED IN OUR SOLUTION
-- [Watson Speech to Text](https://cloud.ibm.com/catalog/services/speech-to-text) - WHERE AND HOW THIS IS USED IN OUR SOLUTION
-- [Watson Text to Speech](https://cloud.ibm.com/catalog/services/text-to-speech) - WHERE AND HOW THIS IS USED IN OUR SOLUTION
-- List any additional [IBM AI services](https://cloud.ibm.com/catalog?category=ai#services) used or remove this line
+- Watson Discovery:
+Watson Discovery was employed to enhance the search capabilities within our system. It allowed us to index and retrieve information from a large corpus of textual data. Users could query the system for specific information, and Watson Discovery would provide relevant documents, enabling efficient access to relevant insights.
+- Cloudant:
+Our TensorFlow machine learning model interacts with IBM Cloudant, a NoSQL database service. The model sends data, such as predictions and training metrics, to Cloudant for storage and analysis. This data can be accessed, retrieved, and visualized through the system's dashboard.
+- Node-RED:
+We established communication between the Jetson Nano and ESP32 devices using Node-RED. MQTT (Message Queuing Telemetry Transport) protocol was used for device-to-device communication. Node-RED facilitated the exchange of data and commands between the devices, enabling seamless coordination.
+- IBM Cloud Hosting:
+The dashboard that displays the system's data and insights is hosted on the IBM Cloud platform. Users can access this dashboard from their web browsers to monitor the machine learning model's performance, view predictions, and interact with the system.
+- IBM Watson Studio:
+IBM Watson Studio was utilized to improve and fine-tune the TensorFlow machine learning model. This iterative refinement process will lead to better prediction accuracy and performance.
 
 ### Other IBM technology used
 
