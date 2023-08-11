@@ -104,4 +104,4 @@ See our [description document](./docs/DESCRIPTION.md) for log in credentials.
 ### Authors
 
 - Aaditya Voruganti
-- Pranav Chandra Varna Penmatcha
+- Pranav Chandra Varma Penmatcha
