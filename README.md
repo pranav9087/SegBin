@@ -72,6 +72,9 @@ IBM Watson Studio was utilized to improve and fine-tune the TensorFlow machine l
 - IBM Watson Assistant: IBM Watson Assistant serves a dual purpose in our system: first, it enables users to effortlessly navigate the dashboard hosted on IBM Cloud by answering their inquiries and guiding them through simple tasks with natural language interactions. Second, deployed on our website, Watson Assistant acts as a responsive customer support chatbot, readily addressing common queries and offering assistance, thereby enhancing user experience and engagement. 
 
 The assistant has been deployed on our website: www.terravortex.com in basic Beta testing stage
+![ChatBot](https://raw.githubusercontent.com/SegBin-ai/IBM-CFC-2023/main/images/Chatbot.png)
+
+
 
 - IBM Analytics: We leverage IBM Analytics to process and analyze data from various sources, including the TensorFlow model's predictions and Cloudant-stored metrics. This provides valuable insights presented on the IBM Cloud-hosted dashboard.
 
