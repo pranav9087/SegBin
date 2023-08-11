@@ -88,18 +88,52 @@ Feel free to watch the video by clicking on the image above.
 
 
 ### Project development roadmap
-
-The project currently does the following things.
-
-- Feature 1
-- Feature 2
-- Feature 3
-
-In the future we plan to...
-
 See below for our proposed schedule on next steps after Call for Code 2023 submission.
 
 https://github.com/SegBin-ai/IBM-CFC-2023/blob/main/5-year%20plan.pdf
+
+#### Features of SegBin lite and SegBin X:
+
+- Automated Waste Sorting:
+SegBin lite: Four adjustable openings for different waste categories, activated by analyzing waste items through a camera.
+SegBin X: Central hole for disposal, with a smart separator system that automatically sorts items into the appropriate waste categories.
+- Advanced Imaging and Sensors:
+Full HD camera module and infrared sensor for accurate waste detection and sorting.
+- Data Analysis Dashboard:
+Provides users with insights into disposal trends and waste composition.
+Empowers users with actionable information through AI-driven analytics, data visualization, and predictive modeling.
+- Auction System:
+Connects customers with waste buyers to optimize potential revenue from recyclable materials.
+
+#### Future Plans:
+
+- Enhanced Waste Detection Algorithm:
+Continuously improve waste sorting accuracy and efficiency through ongoing algorithm refinement.
+Incorporate advanced machine learning techniques to handle a wider variety of waste items and optimize sorting decisions.
+- AI-Driven Insights and Recommendations:
+Develop more sophisticated AI algorithms to uncover deeper insights from waste management data.
+Provide personalized recommendations to users for waste reduction and better disposal practices.
+- Expanded Data Analytics:
+Implement predictive modeling to forecast waste trends and enable proactive waste management strategies.
+Enhance data visualization capabilities to make insights more accessible and actionable.
+- Chatbot Enhancement:
+Train the chatbot to handle a wide range of user queries and provide accurate and detailed suggestions.
+Integrate Natural Language Processing (NLP) advancements for improved conversational capabilities.
+- Geographical Expansion:
+Expand the availability of SegBin lite and SegBin X to new regions and markets.
+Adapt the technology to meet the waste management challenges specific to different areas.
+
+#### Areas Where Assistance is Needed:
+
+- Refining Waste Detection Algorithm:
+Collaborate with AI and machine learning experts to improve the accuracy and robustness of waste sorting algorithms.
+- Data Analytics and Insights:
+Partner with data analytics specialists to develop advanced AI-driven insights and predictive modeling capabilities.
+- Infrastructure Development:
+Seek support in establishing efficient 3D printed component production and optimizing supply chain management.
+Work with experts to seamlessly integrate hardware and software components.
+- Chatbot Development:
+Engage NLP experts to enhance the chatbot's conversational abilities and expand its knowledge base.
 
 ## Additional details
 
