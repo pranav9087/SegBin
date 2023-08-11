@@ -1,0 +1,167 @@
+/* @import url("https://fonts.googleapis.com/css2?family=Source+Sans+Pro:wght@400;600;700&display=swap");
+
+html,
+body,
+#root,
+.app,
+.content {
+  height: 100%;
+  width: 100%;
+  font-family: "Source Sans Pro", sans-serif;
+}
+
+.app {
+  display: flex;
+  position: relative;
+}
+
+::-webkit-scrollbar {
+  width: 10px;
+}
+
+/* Track */
+/* ::-webkit-scrollbar-track {
+  background: #e0e0e0;
+} */
+
+/* Handle */
+/* ::-webkit-scrollbar-thumb {
+  background: #888;
+} */
+
+/* Handle on hover */
+/* ::-webkit-scrollbar-thumb:hover {
+  background: #555;
+/* } */
+
+/* .sidebar {
+  position: -webkit-sticky;
+  position: sticky;
+  top: 0;
+} */
+
+@import url("https://fonts.googleapis.com/css2?family=Source+Sans+Pro:wght@400;600;700&display=swap");
+
+html,
+body,
+#root,
+.app,
+.content {
+  font-family: "Source Sance Pro", sans-serif;
+}
+
+::-webkit-scrollbar {
+  width: 10px;
+}
+
+/* Track */
+::-webkit-scrollbar-track {
+  background: #e0e0e0;
+}
+
+/* Handle */
+::-webkit-scrollbar-thumb {
+  background: #888;
+}
+
+/* Handle on hover */
+::-webkit-scrollbar-thumb:hover {
+  background: #555;
+}
+
+.login-page {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+  background-color: rgb(21, 27, 44);
+}
+
+.login-container {
+  max-width: 400px;
+  width: 80%;
+  padding: 40px;
+  background-color: rgb(33, 42, 62);
+  border-radius: 8px;
+  box-shadow: 0px 2px 20px rgba(0, 0, 0, 0.2);
+}
+
+h1 {
+  font-size: 28px;
+  font-weight: bold;
+  text-align: center;
+  margin-bottom: 24px;
+  color: rgb(114, 203, 174); /* Change the text color */
+}
+
+form {
+  display: flex;
+  flex-direction: column;
+}
+
+.form-group {
+  margin-bottom: 20px;
+}
+
+input {
+  width: 100%;
+  padding: 12px;
+  border: none;
+  border-radius: 4px;
+  font-size: 16px;
+  background-color: #f8f8f8;
+  color: #333;
+}
+
+input::placeholder {
+  color: #aaa;
+}
+
+button {
+  padding: 12px;
+  border: none;
+  border-radius: 4px;
+  font-size: 16px;
+  font-weight: bold;
+  background-color: rgb(114, 203, 174); /* Change the button background color */
+  color: rgb(21, 27, 44);
+  cursor: pointer;
+}
+
+button:hover {
+  background-color: rgb(84, 162, 131); /* Change the button background color on hover */
+}
+.navbar {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 5px 20px;
+  background-color: rgb(33, 42, 62);
+  color: rgb(114, 203, 174);
+  z-index: 1;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; /* Add a stylish font */
+}
+
+.navbar-brand {
+  font-size: 28px; /* Increase the font size */
+  font-weight: bold;
+}
+
+.nav-links {
+  list-style: none;
+  display: flex;
+}
+
+.nav-links li {
+  margin-left: 16px;
+}
+
+.nav-links a {
+  text-decoration: none;
+  color: rgb(114, 203, 174);
+  font-size: 18px; /* Increase the font size */
+}
