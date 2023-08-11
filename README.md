@@ -1,5 +1,10 @@
 # SegBin.AI by TerraVortex
 
+www.terravortex.com
+
+Demo Video: https://www.youtube.com/watch?v=xi4odXWze9k
+
+
 - [Project summary](#project-summary)
   - [The issue we are hoping to solve](#the-issue-we-are-hoping-to-solve)
   - [How our technology solution can help](#how-our-technology-solution-can-help)
