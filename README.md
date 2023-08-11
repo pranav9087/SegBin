@@ -79,7 +79,10 @@ _INSTRUCTIONS: The following deliverables should be officially posted to your My
 
 ### Solution demo video
 
-[![Watch the video](https://www.youtube.com/watch?v=xi4odXWze9k)
+[![Demo Video](video_preview.gif)](https://www.youtube.com/watch?v=xi4odXWze9k)
+
+Feel free to watch the video by clicking on the image above.
+
 
 ### Project development roadmap
 
