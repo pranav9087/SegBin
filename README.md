@@ -56,20 +56,21 @@ Through these well-defined methods of tracking and evaluation, we are poised to 
 
 ### IBM AI service(s) used
 
-- Watson Discovery:
-Watson Discovery was employed to enhance the search capabilities within our system. It allowed us to index and retrieve information from a large corpus of textual data. Users could query the system for specific information, and Watson Discovery would provide relevant documents, enabling efficient access to relevant insights.
-- Cloudant:
-Our TensorFlow machine learning model interacts with IBM Cloudant, a NoSQL database service. The model sends data, such as predictions and training metrics, to Cloudant for storage and analysis. This data can be accessed, retrieved, and visualized through the system's dashboard.
-- Node-RED:
-We established communication between the Jetson Nano and ESP32 devices using Node-RED. MQTT (Message Queuing Telemetry Transport) protocol was used for device-to-device communication. Node-RED facilitated the exchange of data and commands between the devices, enabling seamless coordination.
-- IBM Cloud Hosting:
-The dashboard that displays the system's data and insights is hosted on the IBM Cloud platform. Users can access this dashboard from their web browsers to monitor the machine learning model's performance, view predictions, and interact with the system.
+- IBM Analytics:
+We leverage IBM Analytics to process and analyze data from various sources, including the TensorFlow model's predictions and Cloudant-stored metrics. This provides valuable insights presented on the IBM Cloud-hosted dashboard.
+
 - IBM Watson Studio:
 IBM Watson Studio was utilized to improve and fine-tune the TensorFlow machine learning model. This iterative refinement process will lead to better prediction accuracy and performance.
 
 ### Other IBM technology used
+- Cloudant:
+Our TensorFlow machine learning model interacts with IBM Cloudant, a NoSQL database service. The model sends data, such as predictions and training metrics, to Cloudant for storage and analysis. This data can be accessed, retrieved, and visualized through the system's dashboard.
 
-INSTRUCTIONS: List any other IBM technology used in your solution and describe how each component was used. If you can provide links to/details on exactly where these were used in your code, that would help the judges review your submission.
+- Node-RED:
+We established communication between the Jetson Nano and ESP32 devices using Node-RED. MQTT (Message Queuing Telemetry Transport) protocol was used for device-to-device communication. Node-RED facilitated the exchange of data and commands between the devices, enabling seamless coordination.
+
+- IBM Cloud Hosting:
+The dashboard that displays the system's data and insights is hosted on the IBM Cloud platform. Users can access this dashboard from their web browsers to monitor the machine learning model's performance, view predictions, and interact with the system.
 
 ### Solution architecture
 
@@ -77,14 +78,7 @@ Diagram and step-by-step description of the flow of our solution:
 
 ![Solution Architecture](https://raw.githubusercontent.com/SegBin-ai/IBM-CFC-2023/main/images/Solution%20Architecture.jpeg)
 
-1. The user navigates to the site and uploads a video file.
-2. Watson Speech to Text processes the audio and extracts the text.
-3. Watson Translation (optionally) can translate the text to the desired language.
-4. The app stores the translated text as a document within Object Storage.
-
 ## Presentation materials
-
-_INSTRUCTIONS: The following deliverables should be officially posted to your My Team > Submissions section of the [Call for Code Global Challenge resources site](https://cfc-prod.skillsnetwork.site/), but you can also include them here for completeness. Replace the examples seen here with your own deliverable links._
 
 ### Solution demo video
 
