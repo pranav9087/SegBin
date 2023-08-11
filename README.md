@@ -14,12 +14,6 @@
 - [Additional details](#additional-details)
   - [How to run the project](#how-to-run-the-project)
   - [Live demo](#live-demo)
-- [About this template](#about-this-template)
-  - [Contributing](#contributing)
-  - [Versioning](#versioning)
-  - [Authors](#authors)
-  - [License](#license)
-  - [Acknowledgments](#acknowledgments)
 
 _INSTRUCTIONS: Complete all required deliverable sections below._
 
@@ -27,17 +21,16 @@ _INSTRUCTIONS: Complete all required deliverable sections below._
 
 ### The issue we are hoping to solve
 
-REPLACE THIS SENTENCE with a short description, 2-3 sentences in length, of the specific sustainability problem your solution is meant to address.
+Improper waste segregation poses significant environmental and financial challenges. In colleges, even students often neglect to separate waste correctly, leading to damaged recyclables, increased landfill waste, and the labor-intensive task of sorting improperly discarded waste. This issue extends beyond universities, indicating a larger problem with waste management globally. The current approach of replacing traditional single-bin systems with costly three-bin recycling bins has improved diversion rates but falls short of expectations. Financial burdens arise from the need to hire workers for manual waste sorting. To address this problem, we developed a cost-effective solution that ensures minimal damage to recyclables by sorting waste at the point of disposal.
 
 ### How our technology solution can help
 
-REPLACE THIS SENTENCE with a short description of your team's solution, in about 10 words.
+Smart waste sorting alternative to dustbins with AI, data insights, and revenue optimization.
 
 ### Our idea
 
-INSTRUCTIONS: Replace this paragraph with a longer description of your solution. In about 500 words, describe your solution in more detail. Include the real-world problem you identified, describe the technological solution you have created, and explain how it’s an improvement over existing solutions. You can supply additional documentation in this source code repository that you link to as well.
-
-More detail is available in our [description document](./docs/DESCRIPTION.md).
+TerraVortex is proud to introduce two innovative waste management solutions: SegBin lite and SegBin X. SegBin lite is a sleek, plate-shaped device that can be placed on existing dustbins, offering automated waste sorting. Equipped with four adjustable openings, each corresponding to a waste category (plastic products, food waste, metals, and office products), SegBin lite utilizes a wide angle Full HD camera module and an infrared sensor. Users simply hold the trash above the camera for a few seconds, allowing our advanced algorithm to analyze the photo and open the appropriate hole for disposal.
+Alternatively, along with all the features discussed SegBin X adds a smart separator system. Users can conveniently dispose of all their waste through the central hole, and our product automatically separates and sorts the items accordingly. Both solutions come with a comprehensive data analysis dashboard, empowering users with insights into their disposal trends. Leveraging AI-driven analytics, data visualization, and predictive modeling, customers gain valuable information on waste composition. Furthermore, our AI-powered chatbot offers suggestions on maximizing the use of each waste type. Additionally, our platform features an auction system connecting customers with waste buyers, optimizing their potential revenue.
 
 ## Technology implementation
 
@@ -90,7 +83,7 @@ In the future we plan to...
 
 See below for our proposed schedule on next steps after Call for Code 2023 submission.
 
-![Roadmap](./images/roadmap.jpg)
+[embed]http://example.com/file.pdf[/embed]
 
 ## Additional details
 
@@ -108,29 +101,7 @@ See our [description document](./docs/DESCRIPTION.md) for log in credentials.
 
 ---
 
-_INSTRUCTIONS: You can remove the below section from your specific project README._
-
-## About this template
-
-### Contributing
-
-Please read [CONTRIBUTING.md](CONTRIBUTING.md) for details on our code of conduct, and the process for submitting pull requests to us.
-
-### Versioning
-
-We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/your/project/tags).
-
 ### Authors
 
-Aaditya Voruganti
-Pranav Chandra Varna Penmatcha
-
-- **Billie Thompson** - _Initial work_ - [PurpleBooth](https://github.com/PurpleBooth)
-
-### License
-
-This project is licensed under the Apache 2 License - see the [LICENSE](LICENSE) file for details.
-
-### Acknowledgments
-
-- Based on [Billie Thompson's README template](https://gist.github.com/PurpleBooth/109311bb0361f32d87a2).
+- Aaditya Voruganti
+- Pranav Chandra Varna Penmatcha
