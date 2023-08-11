@@ -2,8 +2,9 @@
 
 www.terravortex.com
 
-<iframe width="560" height="315" src=" https://www.youtube.com/watch?v=xi4odXWze9k" frameborder="0" allowfullscreen></iframe>
- https://www.youtube.com/watch?v=xi4odXWze9k
+[![Video Thumbnail](https://img.youtube.com/vi/xi4odXWze9k/0.jpg)](https://www.youtube.com/watch?v=xi4odXWze9k)
+
+https://www.youtube.com/watch?v=xi4odXWze9k
 
 
 - [Project summary](#project-summary)
