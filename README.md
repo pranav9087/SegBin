@@ -9,6 +9,7 @@ click on the thumbnail below for demo video
 https://www.youtube.com/watch?v=xi4odXWze9k
 
 - live demo of analytics dashboard: [TerraVortex Dashboard](https://www.terravortex.com/single-project.html)
+  you can create your own user ID and password or use Username: test@ibm.com Password:test123
 
 3D Sketch of Dustbin
 ![3D drawing](images/Drawing.jpg)
