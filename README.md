@@ -93,6 +93,7 @@ We established communication between the Jetson Nano and ESP32 devices using Nod
 
 - IBM Cloud Hosting:
 The dashboard that displays the system's data and insights is hosted on the IBM Cloud platform. Users can access this dashboard from their web browsers to monitor the machine learning model's performance, view predictions, and interact with the system.
+![Dashboard Live](https://www.terravortex.com/single-project.html)
 
 ### Solution architecture
 
