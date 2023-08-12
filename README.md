@@ -10,7 +10,7 @@ https://www.youtube.com/watch?v=xi4odXWze9k
 
 - live demo of analytics dashboard: [TerraVortex Dashboard](https://www.terravortex.com/single-project.html)
 
-
+## Table of Contents
 - [Project summary](#project-summary)
   - [The issue we are hoping to solve](#the-issue-we-are-hoping-to-solve)
   - [How our technology solution can help](#how-our-technology-solution-can-help)
