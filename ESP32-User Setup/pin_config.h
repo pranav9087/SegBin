@@ -2,7 +2,6 @@
 
 /*ESP32S3*/
 #define PIN_POWER_ON          46
-
 #define PIN_IIC_SDA           18
 #define PIN_IIC_SCL           8
 
