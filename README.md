@@ -70,6 +70,17 @@ Instructions: The code run on watson studio is present as a python notebook in t
 
 IBM Watson Studio was utilized to improve and fine-tune the TensorFlow machine learning model. This iterative refinement process will lead to better prediction accuracy and performance.
 
+### Under Development/Future IBM AI usage
+
+- IBM Watson Assistant: IBM Watson Assistant serves a dual purpose in our system: first, it enables users to effortlessly navigate the dashboard hosted on IBM Cloud by answering their inquiries and guiding them through simple tasks with natural language interactions.
+- Second, deployed on our website, Watson Assistant acts as a responsive customer support chatbot, readily addressing common queries and offering assistance, thereby enhancing user experience and engagement. 
+
+The assistant has been deployed on our website: www.terravortex.com in basic Beta testing stage and there is an example gif below. You can say "show demo video" and it will work.
+
+![ChatBot](images/ezgif.com-video-to-gif.gif)
+
+- IBM Analytics: We leverage IBM Analytics to process and analyze data from various sources, including the TensorFlow model's predictions and Cloudant-stored metrics. This provides valuable insights presented on the IBM Cloud-hosted dashboard.
+
 ### Other IBM technology used
 
 All the technologies have been showcased in our demo video: https://www.youtube.com/watch?v=xi4odXWze9k
@@ -82,17 +93,6 @@ We established communication between the Jetson Nano and ESP32 devices using Nod
 
 - IBM Cloud Hosting:
 The dashboard that displays the system's data and insights is hosted on the IBM Cloud platform. Users can access this dashboard from their web browsers to monitor the machine learning model's performance, view predictions, and interact with the system.
-
-### Under Development/Future IBM AI usage
-
-- IBM Watson Assistant: IBM Watson Assistant serves a dual purpose in our system: first, it enables users to effortlessly navigate the dashboard hosted on IBM Cloud by answering their inquiries and guiding them through simple tasks with natural language interactions.
-- Second, deployed on our website, Watson Assistant acts as a responsive customer support chatbot, readily addressing common queries and offering assistance, thereby enhancing user experience and engagement. 
-
-The assistant has been deployed on our website: www.terravortex.com in basic Beta testing stage and there is an example gif below. You can say "show demo video" and it will work.
-
-![ChatBot](images/ezgif.com-video-to-gif.gif)
-
-- IBM Analytics: We leverage IBM Analytics to process and analyze data from various sources, including the TensorFlow model's predictions and Cloudant-stored metrics. This provides valuable insights presented on the IBM Cloud-hosted dashboard.
 
 ### Solution architecture
 
