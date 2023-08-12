@@ -88,7 +88,7 @@ The dashboard that displays the system's data and insights is hosted on the IBM 
 - IBM Watson Assistant: IBM Watson Assistant serves a dual purpose in our system: first, it enables users to effortlessly navigate the dashboard hosted on IBM Cloud by answering their inquiries and guiding them through simple tasks with natural language interactions.
 - Second, deployed on our website, Watson Assistant acts as a responsive customer support chatbot, readily addressing common queries and offering assistance, thereby enhancing user experience and engagement. 
 
-The assistant has been deployed on our website: www.terravortex.com in basic Beta testing stage and there an example gif below. You can say "show demo video" and it will work.
+The assistant has been deployed on our website: www.terravortex.com in basic Beta testing stage and there is an example gif below. You can say "show demo video" and it will work.
 
 ![ChatBot](images/ezgif.com-video-to-gif.gif)
 
