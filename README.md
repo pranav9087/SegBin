@@ -108,6 +108,8 @@ https://www.youtube.com/watch?v=xi4odXWze9k
 
 Feel free to watch the video by clicking on the image above.
 
+### Dashboard demo link
+https://segbindashboard-37lp.onrender.com
 
 ### Project development roadmap
 See below for our proposed schedule on next steps after Call for Code 2023 submission.
