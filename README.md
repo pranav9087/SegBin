@@ -90,6 +90,8 @@ The dashboard that displays the system's data and insights is hosted on the IBM 
 
 The assistant has been deployed on our website: www.terravortex.com in basic Beta testing stage. You can say "show demo video" and it will work.
 
+![ChatBot](images/ezgif.com-video-to-gif.gif)
+
 ![ChatBot](https://raw.githubusercontent.com/SegBin-ai/IBM-CFC-2023/main/images/Chatbot.png)
 
 - IBM Analytics: We leverage IBM Analytics to process and analyze data from various sources, including the TensorFlow model's predictions and Cloudant-stored metrics. This provides valuable insights presented on the IBM Cloud-hosted dashboard.
