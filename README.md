@@ -8,6 +8,8 @@ click on the thumbnail below for demo video
 
 https://www.youtube.com/watch?v=xi4odXWze9k
 
+- live demo of analytics dashboard: [TerraVortex Dashboard](https://www.terravortex.com/single-project.html)
+
 
 - [Project summary](#project-summary)
   - [The issue we are hoping to solve](#the-issue-we-are-hoping-to-solve)
